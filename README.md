@@ -1,4 +1,4 @@
- <img src="https://github.com/mdshakiburrahman6/mdshakiburrahman6/blob/main/mdshakiburrahman6.gif" />
+ <img style="height: 80vh; width: 100%; object-fit: cover;" src="https://github.com/mdshakiburrahman6/mdshakiburrahman6/blob/main/mdshakiburrahman6.gif" />
  <!-- <img src="https://i.ibb.co.com/CSRYc60/Coder.jpg" /> -->
 
  
